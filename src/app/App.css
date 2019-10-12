@@ -2,20 +2,34 @@ body {
   text-align: center;
   
 }
-a {
-  color: var(--primaryTextColor);
-  text-decoration: none;
-}
+
 .App-header {
   background-color: var(--primaryColor);
   padding: 10px;
   color: var(--primaryTextColor);
 }
-
+.App-header a {
+  color: var(--primaryTextColor);
+  text-decoration: none;
+}
+.content {
+    margin: 0 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.content a {
+  align-self: flex-end;
+}
 .App-intro {
   font-size: large;
 }
 
 .App-ticker {
   font-size: medium;
+}
+.full__screen__iframe {
+    width: 800px;
+    height: 1200px;
+    border: none;
 }
