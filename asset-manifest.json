@@ -1,9 +1,9 @@
 {
-  "main.css": "/static/css/main.b1549b5e.css",
-  "main.js": "/static/js/main.5d722fa7.js",
-  "main.css.map": "/static/css/main.b1549b5e.css.map",
-  "main.js.map": "/static/js/main.5d722fa7.js.map",
-  "index.html": "/index.html",
-  "static/media/kotlin.svg": "/static/media/kotlin.fe42529a.svg",
-  "static/media/react.svg": "/static/media/react.5d5d9eef.svg"
+  "main.css": "/me/static/css/main.b1549b5e.css",
+  "main.js": "/me/static/js/main.abb157b4.js",
+  "main.css.map": "/me/static/css/main.b1549b5e.css.map",
+  "main.js.map": "/me/static/js/main.abb157b4.js.map",
+  "index.html": "/me/index.html",
+  "static/media/kotlin.svg": "/me/static/media/kotlin.fe42529a.svg",
+  "static/media/react.svg": "/me/static/media/react.5d5d9eef.svg"
 }
