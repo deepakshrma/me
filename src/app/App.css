@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  
+}
+a {
+  color: var(--primaryTextColor);
+  text-decoration: none;
+}
+.App-header {
+  background-color: var(--primaryColor);
+  padding: 10px;
+  color: var(--primaryTextColor);
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-ticker {
+  font-size: medium;
+}

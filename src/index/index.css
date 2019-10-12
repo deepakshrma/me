@@ -1,0 +1,9 @@
+body {
+  --primaryColor: #331188;
+  --primaryLightColor:#663cb8;
+  --primaryDarkColor:#000059;
+  --primaryTextColor:#fffff0;
+  margin: 0;
+  padding: 0;
+  font-family: 'Fira Code', Helvetica, sans-serif, monospace;
+}
