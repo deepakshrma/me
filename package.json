@@ -1,8 +1,8 @@
 {
-  "name": "deepakshrma.github.io",
+  "name": "me",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://deepakshrma.github.io",
+  "homepage": "http://deepakshrma.github.io/me",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
