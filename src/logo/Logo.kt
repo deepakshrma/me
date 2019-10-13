@@ -17,3 +17,8 @@ fun RBuilder.logo(height: Int = 100) {
         img(alt = "Kotlin logo.logo", src = kotlinLogo, classes = "Logo-kotlin") {}
     }
 }
+fun RBuilder.workInProgress(height: Int = 100) {
+    p("App-intro") {
+        +"[<==< WORK IN PROGRESS >==>]"
+    }
+}
